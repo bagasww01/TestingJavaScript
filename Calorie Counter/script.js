@@ -15,7 +15,7 @@ let isError = false;
       cleanStrArray.push(strArray[i])
     }
   }
-} */
+} */ 
 
 function cleanInputString(str) {
     const strArray = str.split('');
