@@ -11,7 +11,7 @@ function cleanInputString(str) {
   str.replace(regex, '');
   return str.replace(regex, '');
 }
-
+ 
 function isInvalidInput() {
   const regex = /\d+e\d+/i;
   str.match(regex);
